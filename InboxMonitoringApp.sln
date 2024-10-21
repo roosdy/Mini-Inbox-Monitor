@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InboxMonitoringApp", "InboxMonitoringApp\InboxMonitoringApp.csproj", "{2C0ADD85-4C39-4834-A4FD-9C845A491062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C0ADD85-4C39-4834-A4FD-9C845A491062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0ADD85-4C39-4834-A4FD-9C845A491062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0ADD85-4C39-4834-A4FD-9C845A491062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0ADD85-4C39-4834-A4FD-9C845A491062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C01473-89AD-4EFB-9ADD-CED0C447CC08}
+	EndGlobalSection
+EndGlobal

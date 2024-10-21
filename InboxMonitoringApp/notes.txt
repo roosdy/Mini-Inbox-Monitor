@@ -1,0 +1,10 @@
+notes:
+delete - show emails as cleaned & show emails as full html 
+save full email txt and attachments locally but display txt only on the interface
+
+flag urgent, attention and good need to be visually visible on the interface
+
+connect to GPT-4o-mini
+make sure that chatbot could access the latest 10 emails from locally saved emails 
+
+export functionality to excel
