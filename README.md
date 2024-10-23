@@ -31,7 +31,10 @@ Mini Inbox Monitoring App is a Windows desktop application that integrates with 
 
 ### **Steps to Run the App**
 1. **Download the Application:**
-   - Download the latest release from the [releases page](#) (Insert link if hosted).
+   - Clone the repo.
+   - Open the solution in Visual Studio.
+   - Set the configuration to `Release` mode.
+   - Build and run the project from Visual Studio.
    
 2. **Run the Application:**
    - Open the `.exe` file in the download folder.
@@ -62,7 +65,7 @@ Mini Inbox Monitoring App is a Windows desktop application that integrates with 
 ### **Setting Up the Project**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Mercury-Inbox-Monitoring-App.git
+   git clone https://github.com/roosdy/Mini-Inbox-Monitor.git
    ```
    
 2. **Install Dependencies:**
